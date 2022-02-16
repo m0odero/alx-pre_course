@@ -3,5 +3,5 @@
 
 ### Project Description
 ***
-This is my first ALX project
+This is my first ALX project.
 ***
